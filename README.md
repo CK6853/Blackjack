@@ -1,0 +1,1 @@
+In 2023 one of my friends was learning Python. I wanted to show off some of its OOP features, so while we were chilling in a Discord call I wrote this, occasionally screen sharing to demonstrate some new feature or concept. Quick and dirty, almost no commenting, but got the job done. And I had fun making it, which is the main point. 
